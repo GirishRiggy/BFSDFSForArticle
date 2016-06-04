@@ -1,4 +1,4 @@
-
+//adding a random comment
 public class Node 
 {
 	public char label;
