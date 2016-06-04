@@ -1,7 +1,7 @@
 
 public class Node 
 {
-	//ICODE comments
+	//ICODE comments Conflict
 	public char label;
 	public boolean visited=false;
 	public Node(char l)
