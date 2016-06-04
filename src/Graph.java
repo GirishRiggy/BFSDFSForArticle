@@ -8,6 +8,7 @@ public class Graph
 {
 	public Node rootNode;
 	public ArrayList nodes=new ArrayList();
+	String stringVar;
 	public int[][] adjMatrix;//Edges will be represented as adjacency Matrix
 	int size;
 	public void setRootNode(Node n)
